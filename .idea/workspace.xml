@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0089acb1-e659-41d1-907a-e9acd393a7eb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XsqdiM28dQKDW4xIhDjC4NqZgK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/Downloads/TriangleList.class" />
+  </component>
+  <component name="RunManager" selected="Application.TaskDop">
+    <configuration name="Task13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch13.task13.Task13" />
+      <module name="Laboratornaya1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch13.task13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch2.task2.Task2" />
+      <module name="Laboratornaya1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch2.task2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch5.task5.Task5" />
+      <module name="Laboratornaya1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch5.task5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch7.task7.Task7" />
+      <module name="Laboratornaya1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch7.task7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskDop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chdop.taskdop.TaskDop" />
+      <module name="Laboratornaya1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chdop.taskdop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TaskDop" />
+        <item itemvalue="Application.Task2" />
+        <item itemvalue="Application.Task5" />
+        <item itemvalue="Application.Task13" />
+        <item itemvalue="Application.Task7" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0089acb1-e659-41d1-907a-e9acd393a7eb" name="Default Changelist" comment="" />
+      <created>1581845238570</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581845238570</updated>
+      <workItem from="1581845242452" duration="3156000" />
+      <workItem from="1581848583457" duration="8343000" />
+      <workItem from="1581960845810" duration="2487000" />
+      <workItem from="1582125119597" duration="8861000" />
+      <workItem from="1582299061120" duration="9081000" />
+      <workItem from="1582309978299" duration="5413000" />
+      <workItem from="1582319278951" duration="126000" />
+      <workItem from="1582320013616" duration="166000" />
+      <workItem from="1582320335407" duration="702000" />
+      <workItem from="1582350511658" duration="10703000" />
+      <workItem from="1582363097008" duration="1110000" />
+      <workItem from="1582956431295" duration="2463000" />
+      <workItem from="1584099011639" duration="14000" />
+      <workItem from="1584099245800" duration="14000" />
+      <workItem from="1584099352519" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="374" y="290" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1582299133694">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="374" y="290" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1582299133694" />
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1582143394145">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1582143394145" />
+    <state width="1367" height="112" key="GridCell.Tab.0.bottom" timestamp="1582965550454">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="112" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582965550454" />
+    <state width="1367" height="112" key="GridCell.Tab.0.center" timestamp="1582965550454">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="112" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582965550454" />
+    <state width="1367" height="112" key="GridCell.Tab.0.left" timestamp="1582965550454">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="112" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582965550454" />
+    <state width="1367" height="112" key="GridCell.Tab.0.right" timestamp="1582965550454">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="112" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582965550454" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1584099352053">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584099352053" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1582300990990">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1582300990990" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ch1/task1/Task1.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://D:/Hreni/com/sun/source/tree/BreakTree.java</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
